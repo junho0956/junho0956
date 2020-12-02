@@ -1,4 +1,4 @@
-Hello, thanks visitor! (❁´◡`❁)🖐
+Hello, thank you for visiting (❁´◡`❁)🖐
 
 portfolio (☞ﾟヮﾟ)☞ https://junho0956.github.io/PORTFOLIO/
 
