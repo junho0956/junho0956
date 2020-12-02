@@ -1,6 +1,6 @@
-hello, thanks visitor!
+Hello, thanks visitor! (❁´◡`❁)🖐
 
-portfolio: https://junho0956.github.io/PORTFOLIO/
+portfolio (☞ﾟヮﾟ)☞ https://junho0956.github.io/PORTFOLIO/
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=junho0956&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
