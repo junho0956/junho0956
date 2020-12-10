@@ -1,6 +1,6 @@
 Hello, thank you for visiting🖐 (❁´◡`❁)
 
-### Tistory
+### BLOG
 https://junho0956.tistory.com/
 
 ### Portfolio
