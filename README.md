@@ -1,5 +1,8 @@
 Hello, thank you for visiting🖐 (❁´◡`❁)
 
+### Tistory
+https://junho0956.tistory.com/
+
 ### Portfolio
 https://junho0956.github.io/PORTFOLIO/
 
