@@ -1,5 +1,3 @@
-Hello, thank you for visiting🖐 (❁´◡`❁)
-
 - 19.09 ` 19.12 스타트업 Elgo 근무
 - 19.12 SoftWave2019 참가
 - 19 ACMICPC Seoul Resional 참가
