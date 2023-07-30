@@ -4,7 +4,7 @@ Mbti service: https://survey.projectwith.org<br/>
 Fantasy-Football Beta service: https://www.kleaguefantasy.com<br/>
 Kick service: https://kleaguekick.com<br/>
 
-Skill: TypeScript, NextJS, ReactJS, NodeJS<br/>
+Skill: TypeScript, NextJS, ReactJS<br/>
 Current Studying: Interactive Web, React-Query<br/>
 
 ### solved.ac / [Test status](https://github.com/junho0956/Algorithm#status)
